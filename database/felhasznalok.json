@@ -1,0 +1,18 @@
+{
+    "admin@nemkovid.hu": {
+        "nev": "admin",
+        "taj": "000000000",
+        "cim": "NemKoViD",
+        "email": "admin@nemkovid.hu",
+        "jszo": "$2y$10$I\/Zx8zPG1tFY7FcIP4luhuief4o1UGImC0XFe821Y2fI02tDHyJM2",
+        "admin": true
+    },
+    "j.kornel44@gmail.com": {
+        "nev": "Juh\u00e1sz Korn\u00e9l",
+        "taj": "112106366",
+        "cim": "2072. Zs\u00e1mb\u00e9k, Csap utca 786\/7.",
+        "email": "j.kornel44@gmail.com",
+        "jszo": "$2y$10$whOQ4Pn0jXGDpDxUr\/2S.edv3AOSmaNhAP\/e93gSF3Dr33PAAAtrG",
+        "admin": false
+    }
+}
